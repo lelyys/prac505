@@ -1,0 +1,15 @@
+body{
+    font-family: "Roboto Mono", monospace;
+    background-color: rgb(229, 231, 199);
+}
+
+h2{
+    color: rgb(74, 12, 124);
+}
+
+#info{
+    font-size: 18px;
+    color:rgb(8, 8, 8);
+    padding: 80px;
+    letter-spacing: 2px;x
+}
